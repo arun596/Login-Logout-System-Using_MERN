@@ -5,7 +5,7 @@ The frontend, built with React, provides a responsive UI,
 while the backend, powered by Node.js and Express.js, manages authentication logic and securely stores user
 
 
-
+![alt text](https://github.com/arun596/Login-Logout-System-Using_MERN/blob/main/Screenshot%202025-03-02%20161821.png?raw=true)
 
 
 credentials in MongoDB using Mongoose. Protected routes ensure only authenticated users can access certain pages.
